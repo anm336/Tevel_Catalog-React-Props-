@@ -1,0 +1,52 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.globe{
+  padding: 10px 0px;
+  height: 35px;
+  width: 35px;
+  margin-right: 5px;
+}
+
+.nav{
+  background-color: #F55A5A;
+  justify-content: center;
+  display: flex;
+  color: white;
+  font-size: 15px;
+
+}
+
+.info{
+  margin-left: 40px;
+  margin-top: 30px;
+  display: flex;
+  max-width: 90%;
+}
+
+.identify_img{
+  height: 195px;
+  width: 150px;
+  border-radius: 5px;
+}
+
+.content{
+  margin-left: 15px;
+  line-height: 125%;
+}
+
+.link1{
+  color: grey;
+  margin-left: 10px;
+}
+
+.space{
+  padding: 0;
+  margin: 12px;
+}
+
+.name{
+  font-size: 13.5px;
+}
